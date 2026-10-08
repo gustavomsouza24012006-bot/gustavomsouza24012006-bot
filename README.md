@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%">
+    <img src="./assets/banner.jpg" width="100%" height="250">
 </p>
 
 <h1 align="center">Olá! Eu sou Gustavo Moreira 👋</h1>
